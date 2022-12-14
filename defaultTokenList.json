@@ -4,7 +4,7 @@
   "version": {
     "major": 22,
     "minor": 4,
-    "patch": 7
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://app.3xcalibur.com/images/XCAL.png",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Dopex2",
-      "symbol": "DPX2",
+      "symbol": "DPX",
       "decimals": 18,
       "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
       "chainId": 42161,
